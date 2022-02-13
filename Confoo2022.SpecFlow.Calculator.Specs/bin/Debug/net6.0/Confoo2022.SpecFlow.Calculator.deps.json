@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Confoo2022.SpecFlow.Calculator/1.0.0": {
+        "runtime": {
+          "Confoo2022.SpecFlow.Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Confoo2022.SpecFlow.Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

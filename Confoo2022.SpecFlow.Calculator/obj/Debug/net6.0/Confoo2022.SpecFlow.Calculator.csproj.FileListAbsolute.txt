@@ -1,0 +1,14 @@
+C:\Users\fgaut\git\Confoo2022.SpecFlow\Confoo2022.SpecFlow.Calculator\bin\Debug\net6.0\Confoo2022.SpecFlow.Calculator.exe
+C:\Users\fgaut\git\Confoo2022.SpecFlow\Confoo2022.SpecFlow.Calculator\bin\Debug\net6.0\Confoo2022.SpecFlow.Calculator.deps.json
+C:\Users\fgaut\git\Confoo2022.SpecFlow\Confoo2022.SpecFlow.Calculator\bin\Debug\net6.0\Confoo2022.SpecFlow.Calculator.runtimeconfig.json
+C:\Users\fgaut\git\Confoo2022.SpecFlow\Confoo2022.SpecFlow.Calculator\bin\Debug\net6.0\Confoo2022.SpecFlow.Calculator.dll
+C:\Users\fgaut\git\Confoo2022.SpecFlow\Confoo2022.SpecFlow.Calculator\bin\Debug\net6.0\ref\Confoo2022.SpecFlow.Calculator.dll
+C:\Users\fgaut\git\Confoo2022.SpecFlow\Confoo2022.SpecFlow.Calculator\bin\Debug\net6.0\Confoo2022.SpecFlow.Calculator.pdb
+C:\Users\fgaut\git\Confoo2022.SpecFlow\Confoo2022.SpecFlow.Calculator\obj\Debug\net6.0\Confoo2022.SpecFlow.Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgaut\git\Confoo2022.SpecFlow\Confoo2022.SpecFlow.Calculator\obj\Debug\net6.0\Confoo2022.SpecFlow.Calculator.AssemblyInfoInputs.cache
+C:\Users\fgaut\git\Confoo2022.SpecFlow\Confoo2022.SpecFlow.Calculator\obj\Debug\net6.0\Confoo2022.SpecFlow.Calculator.AssemblyInfo.cs
+C:\Users\fgaut\git\Confoo2022.SpecFlow\Confoo2022.SpecFlow.Calculator\obj\Debug\net6.0\Confoo2022.SpecFlow.Calculator.csproj.CoreCompileInputs.cache
+C:\Users\fgaut\git\Confoo2022.SpecFlow\Confoo2022.SpecFlow.Calculator\obj\Debug\net6.0\Confoo2022.SpecFlow.Calculator.dll
+C:\Users\fgaut\git\Confoo2022.SpecFlow\Confoo2022.SpecFlow.Calculator\obj\Debug\net6.0\ref\Confoo2022.SpecFlow.Calculator.dll
+C:\Users\fgaut\git\Confoo2022.SpecFlow\Confoo2022.SpecFlow.Calculator\obj\Debug\net6.0\Confoo2022.SpecFlow.Calculator.pdb
+C:\Users\fgaut\git\Confoo2022.SpecFlow\Confoo2022.SpecFlow.Calculator\obj\Debug\net6.0\Confoo2022.SpecFlow.Calculator.genruntimeconfig.cache
