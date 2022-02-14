@@ -34,3 +34,4 @@ steps:
   inputs:
     generatorSource: 'FeatureFolder'
     projectFilePath: 'Confoo2022.SpefFlow.FizzBuzz.Specs\Features'
+    testExecutionJson: 'Confoo2022.SpefFlow.FizzBuzz.Specs\bin\Debug\net6.0'
