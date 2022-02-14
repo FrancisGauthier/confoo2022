@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Confoo2022.SpecFlow.FizzBuzz.Specs", "Confoo2022.SpefFlow.FizzBuzz.Specs\Confoo2022.SpecFlow.FizzBuzz.Specs.csproj", "{04F88821-B2E3-474E-9241-3867522C24A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Confoo2022.SpecFlow.FizzBuzz.Specs", "Confoo2022.SpecFlow.FizzBuzz.Specs\Confoo2022.SpecFlow.FizzBuzz.Specs.csproj", "{04F88821-B2E3-474E-9241-3867522C24A0}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Confoo2022.SpecFlow.FizzBuzz", "Confoo2022.SpecFlow.FizzBuzz\Confoo2022.SpecFlow.FizzBuzz.csproj", "{3C086FC6-293A-4879-912D-B005F40096C9}"
 EndProject
