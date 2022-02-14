@@ -24,3 +24,8 @@ steps:
 - task: DotNetCoreCLI@2
   inputs:
    command: 'test'
+
+- task: SpecFlowPlus@0
+  inputs:
+    generatorSource: 'FeatureFolder'
+    projectFilePath: 'Confoo2022.SpecFlow.Calculator.Specs\Features'
