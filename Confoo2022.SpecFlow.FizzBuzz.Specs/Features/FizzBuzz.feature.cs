@@ -10,7 +10,7 @@
 // ------------------------------------------------------------------------------
 #region Designer generated code
 #pragma warning disable
-namespace Confoo2022.SpefFlow.FizzBuzz.Specs.Features
+namespace Confoo2022.SpecFlow.FizzBuzz.Specs.Features
 {
     using TechTalk.SpecFlow;
     using System;
@@ -31,7 +31,7 @@ namespace Confoo2022.SpefFlow.FizzBuzz.Specs.Features
 #line 1 "FizzBuzz.feature"
 #line hidden
         
-        public FizzBuzzFeature(FizzBuzzFeature.FixtureData fixtureData, Confoo2022_SpefFlow_FizzBuzz_Specs_XUnitAssemblyFixture assemblyFixture, Xunit.Abstractions.ITestOutputHelper testOutputHelper)
+        public FizzBuzzFeature(FizzBuzzFeature.FixtureData fixtureData, Confoo2022_SpecFlow_FizzBuzz_Specs_XUnitAssemblyFixture assemblyFixture, Xunit.Abstractions.ITestOutputHelper testOutputHelper)
         {
             this._testOutputHelper = testOutputHelper;
             this.TestInitialize();
