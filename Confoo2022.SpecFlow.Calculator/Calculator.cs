@@ -6,5 +6,6 @@
         public int SecondNumber { get; set; }
 
         public int Add() => FirstNumber + SecondNumber;
+        public int Substract() => FirstNumber - SecondNumber;
     }
 }

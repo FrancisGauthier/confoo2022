@@ -1,46 +1,42 @@
+using System;
+using TechTalk.SpecFlow;
+
 namespace Confoo2022.SpecFlow.Calculator.Specs.StepDefinitions
 {
     [Binding]
-    public sealed class CalculatorStepDefinitions
+    public class CalculatorStepDefinitions
     {
-        // For additional details on SpecFlow step definitions see https://go.specflow.org/doc-stepdef
-        private readonly Calculator calculator = new Calculator();
+        private readonly Calculator _calc = new ();
         private int _result;
 
-        [Given("the first number is (.*)")]
-        public void GivenTheFirstNumberIs(int number)
+        [Given(@"the first number is (.*)")]
+        public void GivenTheFirstNumberIs(int p0)
         {
-            //TODO: implement arrange (precondition) logic
-            // For storing and retrieving scenario-specific data see https://go.specflow.org/doc-sharingdata
-            // To use the multiline text or the table argument of the scenario,
-            // additional string/Table parameters can be defined on the step definition
-            // method. 
-
-            calculator.FirstNumber = number;
+            _calc.FirstNumber = p0;
         }
 
-        [Given("the second number is (.*)")]
-        public void GivenTheSecondNumberIs(int number)
+        [Given(@"the second number is (.*)")]
+        public void GivenTheSecondNumberIs(int p0)
         {
-            //TODO: implement arrange (precondition) logic
-
-            calculator.SecondNumber = number;
+            _calc.SecondNumber = p0;
         }
 
-        [When("the two numbers are added")]
+        [When(@"the two numbers are added")]
         public void WhenTheTwoNumbersAreAdded()
         {
-            //TODO: implement act (action) logic
-
-            _result = calculator.Add();
+            _result = _calc.Add();
         }
 
-        [Then("the result should be (.*)")]
-        public void ThenTheResultShouldBe(int result)
+        [When(@"the two numbers are substracted")]
+        public void WhenTheTwoNumbersAreSubstracted()
         {
-            //TODO: implement assert (verification) logic
+            _result = _calc.Substract();
+        }
 
-            _result.Should().Be(result);
+        [Then(@"the result should be (.*)")]
+        public void ThenTheResultShouldBe(int p0)
+        {
+            _result.Should().Be(p0);
         }
     }
 }
