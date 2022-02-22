@@ -15,8 +15,9 @@ variables:
 steps:
 - task: DotNetCoreCLI@2
   inputs:
-    command: 'restore'
-    feedsToUse: 'config'
+    command: restore
+    projects: '$(buildprojects)'
+
 
 - script: dotnet build --configuration $(buildConfiguration)
   displayName: 'dotnet build $(buildConfiguration)'
