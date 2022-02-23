@@ -16,7 +16,7 @@ Scenario: Add two numbers
 Rule: Substract numbers
 @mytag
 Scenario: Substract two numbers
-	Given the first number is 70
+	Given the first number is 80
 	And the second number is 50
 	When the two numbers are substracted
-	Then the result should be 20
+	Then the result should be 30
